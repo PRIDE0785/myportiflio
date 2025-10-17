@@ -1,2 +1,2 @@
 # myportiflio
-this is my personal web
+this is my personal website
